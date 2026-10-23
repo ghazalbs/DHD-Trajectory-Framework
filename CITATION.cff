@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Two-stage trajectory prediction with cross-stage fairness analysis (skeleton code)"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/ghazalbs/DHD-Trajectory-Framework"
+authors:
+  - family-names: Ghazalbash
+    given-names: Somayeh
+    affiliation: DeGroote School of Business, McMaster University
+  - family-names: Zargoush
+    given-names: Manaf
+    affiliation: DeGroote School of Business, McMaster University
+  - family-names: Newbold
+    given-names: K. Bruce
+    affiliation: School of Earth, Environment and Society, McMaster University
