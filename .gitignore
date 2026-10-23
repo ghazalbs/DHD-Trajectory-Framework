@@ -1,0 +1,6 @@
+synthetic/*.csv
+outputs/*
+!outputs/.gitkeep
+.Rhistory
+.RData
+.Rproj.user/
