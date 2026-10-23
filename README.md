@@ -2,7 +2,7 @@
 
 Skeleton code accompanying:
 
-> Ghazalbash S, Zargoush M, Newbold KB. *Predicting Delayed Discharge Trajectories in Patients with Dementia: A Two-Stage Machine Learning Framework with Cross-Stage Fairness Analysis and Explainable Decision Support.* (under review)
+> Ghazalbash S, Zargoush M, Newbold KB. *Predicting Delayed Discharge Trajectories in Patients with Dementia: A Two-Stage Machine Learning Framework with Cross-Stage Fairness Analysis and Explainable Decision Support.* (submitted)
 
 The study data are held at ICES (Ontario, Canada) and cannot be shared. This repository provides the
 analytic workflow as a runnable skeleton on **synthetic data**, so that the framework can be inspected
